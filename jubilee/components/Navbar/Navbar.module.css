@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100;300');
+
+.nav {
+    /* border: 1px solid red; */
+    position: absolute;
+    top: 30px;
+    width: 95%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 5vw;
+    background-color: #131313;
+    margin: 0 2.5vw;
+    border-radius: 5px;
+}
+
+.nav_btns {
+    /* border: 1px solid blue; */
+    width: fit-content;
+    padding: 3.5vh 0;
+    font-size: 20px;
+    cursor: pointer;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    font-weight: 300;
+}
+
+.nav_btns:hover {
+    color: #AE8625;
+}

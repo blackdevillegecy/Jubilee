@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+
+.home {
+  position: relative;
+  background-image: url("../public/home_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 75vh;
+  padding-top: 3vh;
+  filter: blur(10px);
+  opacity: 0.8;
+}
+
+.home_elements {
+  position: absolute;
+  /* border: 1px solid red; */
+  top: 25vh;
+  width: 100%;
+  padding-left: 5vh;
+  padding-right: 5vh;
+}
+
+.heading {
+  font-size: 48px;
+  color: white;
+  word-spacing: 2px;
+  font-weight: bold;
+  letter-spacing: 0.01px;
+  font-family: 'Signika Negative', sans-serif;
+  margin-bottom: 2vh;
+}
+
+.para {
+  width: 50%;
+  margin-bottom: 3vh;
+}
+
+.button {
+  cursor: pointer;
+  background-color: #131313;
+  border: 1px solid white;
+  width: fit-content;
+  padding: 1.5vh 1.5vw;
+
+}
+
+.button:hover {
+  color: #AE8625;
+  border: 1px solid #AE8625;
+}
+
+@media screen and (max-width: 1030px) {
+  .para {
+    width: 75%;
+  }
+}
+
+@media screen and (max-width: 710px) {
+  .para {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 560px) {
+
+  .heading {
+    text-align: center;
+    font-size: 35px;
+  }
+
+  .para {
+    text-align: center;
+  }
+
+  .button {
+    margin: auto;
+  }
+}

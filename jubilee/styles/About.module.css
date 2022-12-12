@@ -1,0 +1,18 @@
+.about {
+    height: 100vh;
+    /* ff 3.6+ */
+    background:-moz-radial-gradient(circle at 0% 0%, rgba(54, 39, 20, 1) 0%, rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 68%, rgba(58, 37, 5, 1) 100%);
+
+    /* safari 5.1+,chrome 10+ */
+    background:-webkit-radial-gradient(circle at 0% 0%, rgba(54, 39, 20, 1) 0%, rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 68%, rgba(58, 37, 5, 1) 100%);
+
+    /* opera 11.10+ */
+    background:-o-radial-gradient(circle at 0% 0%, rgba(54, 39, 20, 1) 0%, rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 68%, rgba(58, 37, 5, 1) 100%);
+
+    /* ie 10+ */
+    background:-ms-radial-gradient(circle at 0% 0%, rgba(54, 39, 20, 1) 0%, rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 68%, rgba(58, 37, 5, 1) 100%);
+
+    /* global 92%+ browsers support */
+    background:radial-gradient(circle at 0% 0%, rgba(54, 39, 20, 1) 0%, rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 68%, rgba(58, 37, 5, 1) 100%);
+    
+}
