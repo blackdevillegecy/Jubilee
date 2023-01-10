@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative&display=swap');
+
 .ctc {
     height: 100vh;
     /* ff 3.6+ */
@@ -15,4 +18,36 @@
     /* global 92%+ browsers support */
     background:radial-gradient(circle at 0% 0%, rgba(54, 39, 20, 1) 0%, rgba(0, 0, 0, 1) 32%, rgba(0, 0, 0, 1) 42%, rgba(0, 0, 0, 1) 68%, rgba(58, 37, 5, 1) 100%);
     
+}
+
+.ctc_content {
+    /* border: 1px solid red; */
+    position: absolute;
+    padding: 0 10vw;
+    top: 20vh;
+}
+
+.para_head {
+    /* border: 1px solid yellow; */
+    width: fit-content;
+    font-size: 30px;
+    font-family: 'Signika Negative', sans-serif;
+    margin-bottom: 2vh;
+    color:  #ffb027;
+}
+
+.para_points, .para_content {
+    /* border: 1px solid orange; */
+    margin-bottom: 2vh;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 16px;
+}
+
+.para_point_head {
+    /* border: 1px solid blue; */
+    width: fit-content;
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 21px;
+    margin-bottom: 1vh;
+    color: #f0aa32
 }

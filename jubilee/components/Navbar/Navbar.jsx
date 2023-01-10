@@ -9,7 +9,7 @@ function Navbar() {
                 <Link href="/about"><div className={styles.nav_btns}>About</div></Link>
                 <Link href="/contact"><div className={styles.nav_btns}>Contact</div></Link>
                 <Link href="/"><div className={styles.nav_btns}>Services</div></Link>
-                <Link href="/ctc"><div className={styles.nav_btns}>Terms and Conditions</div></Link>
+                <Link href="/ctc"><div className={styles.nav_btns}>T & C</div></Link>
             </div>
         </div>
     )
