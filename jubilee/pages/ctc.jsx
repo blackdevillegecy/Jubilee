@@ -13,7 +13,7 @@ function CTC() { // copyright, terms and conditions
                     this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times.</div>
                     <div className={styles.para_points}>
                         <div className={styles.para_point_head}>1.  Intellectual Property</div>
-                        <div className={styles.para_point_content}>All content published and made available on our Site is the property of 25th Karat and the Site's creators. 
+                        <div className={styles.para_point_content}>All content published and made available on our Site is the property of 25th Karat and the Site&apos;s creators. 
                         This includes, but is not limited to images, text, logos, documents, downloadable files and anything that contributes to the composition of our Site.</div>
                     </div>
                     <div className={styles.para_points}>
