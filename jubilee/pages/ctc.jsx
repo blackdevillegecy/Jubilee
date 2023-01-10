@@ -8,8 +8,8 @@ function CTC() { // copyright, terms and conditions
             <div className={styles.ctc_content}>
                 <div className={styles.ctc_content_para}>
                     <div className={styles.para_head}>Terms and Conditions :</div>
-                    <div className={styles.para_content}>These terms and conditions (the "Terms and Conditions") govern the use of link 25thkarat.com 
-                    (the "Site"). This Site is owned and operated by 25th Karat. This Site is an intermediate for event organising business. By using 
+                    <div className={styles.para_content}>These terms and conditions (the &apos;Terms and Conditions&apos;) govern the use of link 25thkarat.com 
+                    (the &apos;Site&apos;). This Site is owned and operated by 25th Karat. This Site is an intermediate for event organising business. By using 
                     this Site, you indicate that you have read and understand these Terms and Conditions and agree to abide by them at all times.</div>
                     <div className={styles.para_points}>
                         <div className={styles.para_point_head}>1.  Intellectual Property</div>
