@@ -2,13 +2,13 @@
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    border: 1px solid red;
+    border: 0px solid red;
     margin-top: 9vh;
     height: 15vh;
 }
 
 .service {
-    border: 1px solid red;
+    border: 1px solid white;
     height: 100%;
     width: 20%;
 }

@@ -29,7 +29,16 @@
   font-family: 'Signika Negative', sans-serif;
   margin-bottom: 2vh;
 }
+.heading2 {
+  font-size: 30px;
+  color: white;
+  word-spacing: 2px;
+  font-weight: bold;
+  letter-spacing: 0.01px;
+  font-family: 'Signika Negative', sans-serif;
+  margin-bottom: 2vh;
 
+}
 .para {
   width: 50%;
   margin-bottom: 3vh;
@@ -68,6 +77,11 @@
     font-size: 35px;
   }
 
+  .heading2 {
+    text-align: center;
+    font-size: 25px;
+  }
+
   .para {
     text-align: center;
   }
@@ -76,3 +90,4 @@
     margin: auto;
   }
 }
+
