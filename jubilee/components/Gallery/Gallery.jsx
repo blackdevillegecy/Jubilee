@@ -7,41 +7,41 @@ function Gallery() {
         <div style={{marginBottom: '2vh'}}>
             <Carousel cols={3} rows={1} gap={30}>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=1" />
+                <Image src="/gallery/image1.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=2" />
+                <Image src="/gallery/image2.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=3" />
+                <Image src="/gallery/image3.jpeg" width={500} height={345} />
             </Carousel.Item>
             {/* ... */}
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=1" />
+                <Image src="/gallery/image4.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=2" />
+                <Image src="/gallery/image5.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=3" />
+                <Image src="/gallery/image6.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=1" />
+                <Image src="/gallery/image7.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=2" />
+                <Image src="/gallery/image8.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=3" />
+                <Image src="/gallery/image1.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=1" />
+                <Image src="/gallery/image1.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=2" />
+                <Image src="/gallery/image1.jpeg" width={500} height={345} />
             </Carousel.Item>
             <Carousel.Item>
-                <img width="100%" src="https://picsum.photos/800/600?random=3" />
+                <Image src="/gallery/image1.jpeg" width={500} height={345} />
             </Carousel.Item>
             </Carousel>
         </div>

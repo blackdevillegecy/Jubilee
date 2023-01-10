@@ -10,9 +10,9 @@ function Contact() {
         <div className={styles.contact} >
             <Navbar />
             <div className={styles.contact_container}>
-                <div className={styles.contact_heading}>Placing Dreams, Because Every Dream Matters</div>
+                <div className={styles.contact_heading}>Turn your event into an experience</div>
                 <div className={styles.contact_details}>
-                    <div className={styles.place}>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex amet nam ipsam itaque soluta vero perferendis illum qui tenetur dolorem!</div>
+                    <div className={styles.place}> </div>
                     <div className={styles.mobile_number}>+91 85275 13831</div>
                     <div className={styles.social_media}>
                         <div className={styles.logos}><WhatsAppIcon style={{fontSize: "45px", color: 'lightgreen'}} /></div>
